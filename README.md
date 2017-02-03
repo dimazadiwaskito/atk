@@ -1,5 +1,5 @@
 # Aplikasi SIATK 
-author dimaz adiwaskito
+author:dimaz adiwaskito
 
-1.aplikasi untuk mempermudah input Alat Tulis Kantor
-2.mempermudah rekap barang
+1.Aplikasi untuk mempermudah input Alat Tulis Kantor
+2.Mempermudah rekap barang Alat Tulis Kantor
